@@ -1,43 +1,49 @@
-# Hi, I’m Rayan — Full‑stack Web Dev (WordPress + MERN) · Montréal
+<!--
+    Hey there, I'm Rayan Elaini!
+    Welcome to my GitHub profile.
+    Feel free to explore & connect!
+-->
 
-**I build fast, revenue-focused web experiences.** Bilingual (FR/EN). Customer-obsessed. Comfortable in the storefront *and* the codebase.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60A5FA&height=120&section=header" alt="header"/> 
 
-- **Stack:** WordPress (custom themes, ACF, WooCommerce), JavaScript/TypeScript, React, Node.js/Express, MongoDB, SQL
-- **Superpowers:** shipping quickly, clean UX, clear comms with non‑technical stakeholders
-- **Now:** building a small services business (TailTrail) and sharpening React + Node patterns
-- **Open to:** full-time or contract roles in Montréal / remote
-
----
-
-### Highlights
-- **WordPress specialist**: custom themes, performance tuning, SEO basics, WooCommerce flows
-- **MERN**: REST APIs, auth, dashboards, deployment (Railway/Vercel/Render)
-- **Client-facing**:  sales + support background → I translate business needs into features
-- **Bilingual**: 🇫🇷/🇬🇧
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=60A5FA&width=500&lines=Hello%2C+it's+Rayan+Elaini;Full-stack+Web+Developer;WordPress+%2B+MERN;Based+in+Montréal" alt="Full-stack Web Developer"/>
+</a>
 
 ---
 
-### Selected Projects
-- **Technichome** — WordPress site (service business). *Case study with screenshots.*  👉  `github.com/rayan-ea/technichome`
-- **FortunesClub** — WordPress site (content + conversion). *Case study with metrics.* 👉  `github.com/rayan-ea/fortunesclub`
-- **Projet (MERN)** — team project with @oumaymaRouis. 👉  `github.com/rayan-ea/projet`
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=wordpress,js,ts,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode)](https://skillicons.dev)
 
-> Tip: Pin these three repos on your profile so recruiters see them first.
-
----
-
-### What I’m focused on
-- Shipping small products fast (Next.js/React + Node)
-- Learning marketing-as-a-feature: pricing, funnels, booking & payments
-- Exploring the pet-care niche (mobile grooming MVP)
+### Currently learning
+[![Learning](https://skillicons.dev/icons?i=nextjs,docker,aws)](https://skillicons.dev)
 
 ---
 
-### Contact
-- Email: rayan.elaini1@gmail.com
-- LinkedIn: https://ca.linkedin.com/in/rayan-el-aini-49730522b/fr
-- Montréal, QC
+### Featured projects
+- **Technichome** — WordPress site for service business → [View](https://github.com/rayan-ea/technichome)  
+- **FortunesClub** — WordPress e-commerce & content → [View](https://github.com/rayan-ea/fortunesclub)  
+- **Projet (MERN)** — Team project with @oumaymaRouis → [View](https://github.com/rayan-ea/projet)  
 
 ---
 
-> If you’re hiring: I’m the dev who will demo value in 7 days and iterate until it sells.
+### Connect with me!
+<div>
+    <a href="https://ca.linkedin.com/in/rayan-el-aini-49730522b/fr">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="mailto:rayan.elaini1@gmail.com">
+        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Email" width="35" height="35"/>
+    </a>
+    <a href="https://rayan-ea.github.io">
+        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Portfolio" width="37" height="37"/>
+    </a>
+</div>
+
+---
+
+### Employers
+> [!IMPORTANT]  
+> [**Download my resume here**](file:///C:/Users/Oumayma/Downloads/Cv%20Rayan%20Elaini%20Dev.pdf)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60A5FA&height=120&section=footer" alt="footer"/>
