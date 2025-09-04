@@ -9,7 +9,7 @@
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=60A5FA&width=500&lines=Hello%2C+it's+Rayan+Elaini;Full-stack+Web+Developer;WordPress+%2B+MERN;UX%2FUI+%26+Graphic+Design;Based+in+Montréal" alt="Full-stack Web Developer"/>
 </a>
-<div> <img src="./terminal.gif" alt="About Me Terminal GIF"/> </div>
+
 
 ---
 
@@ -22,8 +22,10 @@
 - **Frontend:** React, Next.js, TailwindCSS, Elementor  
 - **Backend:** Node.js, Express, MongoDB, MySQL  
 - **Design & Branding:** Photoshop, Illustrator, Figma, Adobe Premiere/After Effects  
-- **CMS & SEO:** WordPress, WooCommerce, On-page SEO  
-
+- **CMS & SEO:** WordPress, WooCommerce, On-page SEO
+  
+---
+<div> <img src="./terminal.gif" alt="About Me Terminal GIF"/> </div>
 ---
 
 ### Featured Projects
@@ -47,9 +49,7 @@
     <a href="mailto:rayan.elaini1@gmail.com">
         <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Email" width="35" height="35"/>
     </a>
-    <a href="https://rayan-ea.github.io">
-        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Portfolio" width="37" height="37"/>
-    </a>
+    
 </div>
 
 
