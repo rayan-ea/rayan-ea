@@ -58,6 +58,6 @@
 
 ### Employers
 > [!IMPORTANT]  
-> [**Download my resume here**](https://drive.google.com/file/d/YOUR_RESUME_LINK/view)
+> [**Download my resume here**](https://github.com/rayan-ea/rayan-ea/blob/main/Cv%20Rayan%20Elaini%20Dev.pdf)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=60A5FA&height=120&section=footer" alt="footer"/>
