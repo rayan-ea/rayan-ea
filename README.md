@@ -14,7 +14,7 @@
 ---
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=wordpress,elementor,php,js,ts,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,figma,ps,ai,premiere,aftereffects)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,php,js,ts,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,figma,ps,ai,premiere,aftereffects)](https://skillicons.dev)
 
 - **Frontend:** React, Next.js, TailwindCSS, Elementor  
 - **Backend:** Node.js, Express, MongoDB, MySQL  
