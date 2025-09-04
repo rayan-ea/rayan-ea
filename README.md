@@ -9,6 +9,10 @@
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=60A5FA&width=500&lines=Hello%2C+it's+Rayan+Elaini;Full-stack+Web+Developer;WordPress+%2B+MERN;Based+in+Montréal" alt="Full-stack Web Developer"/>
 </a>
+<div>
+    <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
+</div>
+
 
 ---
 
