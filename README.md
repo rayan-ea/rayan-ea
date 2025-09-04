@@ -16,6 +16,9 @@
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=wordpress,php,js,ts,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,figma,ps,ai,premiere,aftereffects)](https://skillicons.dev)
 
+### Studying
+[![Learning](https://skillicons.dev/icons?i=nextjs,azure,ruby)](https://skillicons.dev)
+
 - **Frontend:** React, Next.js, TailwindCSS, Elementor  
 - **Backend:** Node.js, Express, MongoDB, MySQL  
 - **Design & Branding:** Photoshop, Illustrator, Figma, Adobe Premiere/After Effects  
@@ -34,12 +37,7 @@
 
 ---
 
-### Interactive Skills Snapshot
-> A dynamic view of my hard skills in JSON format
 
-![Skills GIF](https://github.com/your-username/your-repo/raw/main/assets/skills.gif)
-
----
 
 ### Connect with me!
 <div>
@@ -47,12 +45,13 @@
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
     <a href="mailto:rayan.elaini1@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="35" height="35"/>
+        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Email" width="35" height="35"/>
     </a>
     <a href="https://rayan-ea.github.io">
         <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Portfolio" width="37" height="37"/>
     </a>
 </div>
+
 
 ---
 
